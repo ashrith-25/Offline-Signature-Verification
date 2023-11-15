@@ -9,7 +9,11 @@
 * Result after training the siamese network
 
 ![image](https://github.com/ashrith-25/Offline-Signature-Verification/assets/99070646/122bb4f3-dad2-4b2f-8ed5-426566d4ed56)
+![image](https://github.com/ashrith-25/Offline-Signature-Verification/assets/99070646/d3be430f-560f-4745-8876-52f1cbd2eaa1)
+
 ![image](https://github.com/ashrith-25/Offline-Signature-Verification/assets/99070646/b61d2d8a-069e-4377-8d96-add2db71471d)
+![image](https://github.com/ashrith-25/Offline-Signature-Verification/assets/99070646/d0f98ebf-94f6-4cb3-a832-1ad4338d4805)
+
 
 
 
